@@ -1,4 +1,4 @@
-# 📊 Sales Analytics Dashboard
+# 📊 Data_Analysis_Dashboard
 
 An interactive **Sales Analytics Dashboard** created using **Microsoft Excel** to analyze and visualize sales performance by product, region, and month.
 
